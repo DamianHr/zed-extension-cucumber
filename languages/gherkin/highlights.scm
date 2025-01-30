@@ -16,7 +16,7 @@
 
 (reference) @constant
 
-(tag) @label
+(tag) @tag
 
 (table_cell) @constant
 
